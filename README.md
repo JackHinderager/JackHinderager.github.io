@@ -1,1 +1,0 @@
-# JackHinderager.github.io
