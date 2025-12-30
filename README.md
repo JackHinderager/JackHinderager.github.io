@@ -1,2 +1,3 @@
 # JackHinderager.github.io
-My super cool website
+Hi!
+![Volkswagen Jetta](/assets/images/tractor.jpg)
