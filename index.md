@@ -1,4 +1,4 @@
-# Links
+# Home
 
 <div align="center">
   <a href="https://github.com/JackHinderager" style="margin:0 1.2rem; font-weight:700;">GitHub</a>
